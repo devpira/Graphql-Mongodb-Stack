@@ -29,7 +29,9 @@ Now you are up and running!
 ## MongoDB Shell Basics:
 
 To start:
-``` Docker-compose up -d --build ```
+``` 
+Docker-compose up -d --build 
+```
 
 ### To connect to mongo:
 
