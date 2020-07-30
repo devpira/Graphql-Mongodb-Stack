@@ -26,6 +26,8 @@ Docker-compose up -d --build
 
 Now you are up and running! 
 
+Go to graphql playground: http://localhost:4000/ to play around
+
 ## MongoDB Shell Basics:
 
 To start:
@@ -63,7 +65,7 @@ show dbs
 If a database doesn't contain any collections (tables) then the db you created won't show until you create your first collection
 
 ### Creating collection:
-In mongo db collections are techincally what you call tables a database and essentially work the same way.
+In mongo db collections are techincally what you call tables in a database and essentially work the same way.
 
 Manually creating a collection:
 ```
